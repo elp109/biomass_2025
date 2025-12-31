@@ -23,7 +23,7 @@
 - 🐍 **app.py**: Main entry point to run the application
 - 📦 **requirements.txt**: List of required Python libraries
 - 📁 **assets/**: Static assets (images, CSS, JS, etc.)
-- 💻 **GEE/**: JavaScript scripts for Google Earth Engine - part1.js, part2.js, part3.js: GEE code modules
+- 💻 **GEE/**: JavaScript scripts for Google Earth Engine - gee1.js, gee2.js, gee3.js: GEE code modules
 - 📄 **page/**: Application pages and UI modules - home.py, map.py: Main application pages
 - ⚙️ **utils/**: Utility functions and GEE authentication handling - gee_auth.py: Handles authentication with GEE
 
@@ -34,7 +34,7 @@
 1. <b>Clone the repository:</b>
      ```bash
      git clone <repo-url>
-     cd biomassbro-main
+     cd biomass2025
      ```
 2. <b>Install dependencies:</b>
      ```bash
